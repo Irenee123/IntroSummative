@@ -12,11 +12,7 @@ overburdened, and technology in schools is limited. Even when students access on
 content, it is rarely customized to their needs or relevant to their curriculum.
 
 ## 📊 Dataset
-The dataset contains 4,998 samples with 15 binary symptom features and three target classes:
-
-- **Source**: Kaggle (Symptom-Based Disease Prediction Dataset)
-- **Features**: 15 binary symptom indicators (fever, headache, cough, etc.)
-- **Target Classes**: Malaria, Typhoid, Pneumonia
+dataset contains detailed numerical records of 10,000 students, capturing their academic performance and study behavior across multiple dimensions. The dataset includes student scores in core subjects (Math, Science, English, and History), learning activity metrics (study hours per week, quiz attempts, consecutive logins, material access frequency), and additional attributes such as improvement rates, time per question, class size, faculty ratio, and predicted performance. Derived variables like science-math score difference and English-history score ratio provide insights into individual subject trends. The data can be used for academic performance analysis, predictive modeling, learning behavior studies, and educational resource optimization.
 
 ## 🧠 Model Architecture
 The neural network architecture includes:

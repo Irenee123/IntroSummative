@@ -44,7 +44,7 @@ The neural network architecture includes:
 | Optimized NN 1     | Adam      | L2             | 10     | True            | 96.40%   | 0.9588   | 0.9588 | 0.9588    |
 | Optimized NN 2     | RMSprop   | L1             | 10     | True            | 96.00%   | 0.9539   | 0.9462 | 0.9616    |
 | Optimized NN 3     | SGD       | None           | 100    | True            | 97.30%   | 0.9692   | 0.9714 | 0.9670    |
-| Logistic Regression | -        | -              | -      | -              | 99%   | 0.99   | 0.99 | 0.99    |
+| Logistic Regression | -        | -              | -      | -              | 99%       | 0.9994   | 0.9989 | 1.0000    |
 
 ## 🔍 Key Findings
 

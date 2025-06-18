@@ -21,7 +21,6 @@ The dataset contains 4,998 samples with 15 binary symptom features and three tar
 ## 🧠 Model Architecture
 The neural network architecture includes:
 
-- **Input Layer**: 15 features (symptoms)
 - **Hidden Layers**: 
   - 64 neurons (ReLU activation)
   - 32 neurons (ReLU activation) 
